@@ -1,4 +1,4 @@
-class MyPromise {
+export class MyPromise {
 
     constructor(executor) {
         this.state = 'pending' 
